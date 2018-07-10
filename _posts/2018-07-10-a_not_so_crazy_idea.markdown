@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "A Not So Crazy Idea"
-date:       2018-07-10 17:49:00 +0000
+date:       2018-07-10 13:49:01 -0400
 permalink:  a_not_so_crazy_idea
 ---
 
