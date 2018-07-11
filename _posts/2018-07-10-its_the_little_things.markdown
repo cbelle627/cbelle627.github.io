@@ -10,6 +10,6 @@ In my career as an editor working in journalism, I had to make sure the written 
 
 You need the coding knowledge and execution ability, like you would need to know how to report and write an article. But even if those elements are correct, mistakes can be made. 
 
-Always check for possible errors. In writing, even a small grammar or spelling mistake can reflect badly on the writer and take away from the piece (http://[https://www.oddee.com/item_97261.aspx). After years of stuyding writing and working in journalism, I have learned to be careful about catching mistakes. 
+Always check for possible errors. In writing, even a small grammar or spelling mistake can reflect badly on the writer and take away from the piece. After years of stuyding writing and working in journalism, I have learned to be careful about catching mistakes. 
 
 Unfortunately, even with spellcheck, and rounds of edits and copyedits, mistakes can still get published. At least with coding, it works or doesn't work. But like writing, even little mistakes can have an impact (such as a forgotten space or quotation marks) in coding, and you need to be just as careful. 
